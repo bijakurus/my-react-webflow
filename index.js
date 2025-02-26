@@ -104,6 +104,7 @@ if ($71198867637ace95$var$root) (0, ($parcel$interopDefault($ltMAx$reactdom))).r
 var $71198867637ace95$export$2e2bcd8739ae039 = $71198867637ace95$var$LeadForm;
 
 
+console.log("App initialized!");
 
 
 //# sourceMappingURL=index.js.map
